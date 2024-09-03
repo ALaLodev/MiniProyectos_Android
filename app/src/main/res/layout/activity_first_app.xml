@@ -13,7 +13,7 @@
         android:layout_marginTop="64dp"
         android:text="Escribe tu nombre"
         android:textColor="@color/black"
-        android:textSize="35dp"
+        android:textSize="35sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -1,5 +1,6 @@
 package com.alalodev.androidDesde0.firstapp
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.widget.EditText
@@ -21,7 +22,9 @@ class FirstAppActivity : AppCompatActivity() {
         btnStart.setOnClickListener {
             val name = etName.text.toString()
             if(name.isNotEmpty()){
-                Log.i("yoyo", "Boton pulsado ${name}")
+                val intent = Intent(this, ResultActivity::class.java)
+                intent.putExtra("EXTRA_NAME", name)
+                startActivity(intent)
             }
 
         }
