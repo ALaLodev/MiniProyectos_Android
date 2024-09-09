@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="recalculate">Re-Calcular</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_underWeight">Bajo Peso</string>
+    <string name="description_underweight">Estás por debajo de óptimo para tu peso y altura</string>
+    <string name="title_normalWeight">Normal</string>
+    <string name="description_normalWeight">Estás en buena condición para tu peso y altura</string>
+    <string name="title_overweight">Sobrepeso</string>
+    <string name="description_overWeight">Estás por encima de lo óptimo para tu peso y altura</string>
+    <string name="title_obesity">Obesidad</string>
+    <string name="description_obesity">Estás MUY por encima de lo óptimo para tu peso y altura, las personas con obesidad tiene más probabilidades de padecer enfermedades cardiovasculares</string>
 </resources>
