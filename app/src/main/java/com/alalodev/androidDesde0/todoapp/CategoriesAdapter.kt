@@ -10,8 +10,7 @@ class CategoriesAdapter(
     RecyclerView.Adapter<CategoriesViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CategoriesViewHolder {
-        val view =
-            LayoutInflater.from(parent.context).inflate(R.layout.item_task_category, parent, false)
+        val view = LayoutInflater.from(parent.context).inflate(R.layout.item_task_category, parent, false)
         return CategoriesViewHolder(view)
     }
 

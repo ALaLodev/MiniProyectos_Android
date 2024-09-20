@@ -19,15 +19,21 @@
         android:id="@+id/btnIMCApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="IMC-App" />
+        android:layout_marginTop="10dp"
+        android:text="IMC App" />
 
     <Button
         android:id="@+id/btnTODOApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="10dp"
         android:text="TODO App" />
 
+    <Button
+        android:id="@+id/btnSuperHeroApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="SuperHero App" />
 
 </LinearLayout>

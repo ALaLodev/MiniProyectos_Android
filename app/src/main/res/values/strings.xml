@@ -1,5 +1,5 @@
 <resources>
-<!-- IMC App -->
+    <!-- IMC App -->
     <string name="app_name">My Application</string>
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
@@ -21,7 +21,7 @@
     <string name="title_obesity">Obesidad</string>
     <string name="description_obesity">Estás MUY por encima de lo óptimo para tu peso y altura, las personas con obesidad tiene más probabilidades de padecer enfermedades cardiovasculares</string>
 
-<!-- TodoApp -->
+    <!-- TodoApp -->
     <string name="todo_title">Mi lista de tareas</string>
     <string name="todo_categories">Categorías:</string>
     <string name="todo_tasks">Tareas:</string>
@@ -30,9 +30,6 @@
     <string name="todo_dialog_category_personal">Personal</string>
     <string name="todo_dialog_category_others">Otros</string>
     <string name="todo_dialog_add_task_button">Crear tarea</string>
-
-
-
 
 
 </resources>
